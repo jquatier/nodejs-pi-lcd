@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-pi-lcd",
+  "version": "1.0.0",
+  "description": "Node.js example code for using a Hitachi HD44780-based LCD with the Raspberry Pi B+ or A+.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquatier/nodejs-pi-lcd.git"
+  },
+  "author": "JQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jquatier/nodejs-pi-lcd/issues"
+  },
+  "homepage": "https://github.com/jquatier/nodejs-pi-lcd",
+  "dependencies": {
+    "lcd": "^1.1.1"
+  }
+}
